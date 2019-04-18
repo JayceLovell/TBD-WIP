@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 97bf46ed1db260240a07fcaff15a0c0f
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Models/RollerBallBrain2.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
