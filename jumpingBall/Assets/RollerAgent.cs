@@ -178,7 +178,7 @@ public class RollerAgent : Agent
         }
         */
         rBody.AddForce(new Vector3(controlSignal.x*3f, 0, controlSignal.z * 3f)  * speed);
-        if (vectorAction[2] > 0.8f&&floor)
+        if (vectorAction[2] > 0f&&floor)
         {
 
             rBody.AddForce(new Vector3(0, 60f, 0), ForceMode.Impulse);
